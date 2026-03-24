@@ -1,9 +1,14 @@
-import React from 'react';
+import React from "react";
+import Hero from "../home/Hero";
+import Team from "./Team";
 
-function AboutPage() {
-    return ( 
-        <h1>About Us</h1>
-     );
-}
+const AboutPage = () => {
+  return (
+    <>
+      <Hero />
+      <Team />
+    </>
+  );
+};
 
 export default AboutPage;
