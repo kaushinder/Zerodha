@@ -95,13 +95,6 @@ function Footer() {
           Document as prescribed by SEBI | ICF
         </p>
 
-        <p>
-          Procedure to file a complaint on SEBI SCORES: Register on SCORES
-          portal. Mandatory details for filing complaints on SCORES: Name, PAN,
-          Address, Mobile Number, E-mail ID. Benefits: Effective Communication,
-          Speedy redressal of the grievances
-        </p>
-
         <p>Smart Online Dispute Resolution | Grievances Redressal </p>
 
         <p>
@@ -109,15 +102,7 @@ function Footer() {
           the related documents carefully before investing.
         </p>
 
-        <p>
-          Attention investors: 1) Stock brokers can accept securities as margins
-          from clients only by way of pledge in the depository system w.e.f
-          September 01, 2020. 2) Update your e-mail and phone number with your
-          stock broker / depository participant and receive OTP directly from
-          depository on your e-mail and/or mobile number to create pledge. 3)
-          Check your securities / MF / bonds in the consolidated account
-          statement issued by NSDL/CDSL every month.
-        </p>
+       
 
         <p>
           India's largest broker based on networth as per NSE. NSE broker
